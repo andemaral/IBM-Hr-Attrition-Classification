@@ -1,1 +1,1 @@
-EDA & Classification analysis of an unbalanced dataset : SMOTE tenchique was utilized for over-sampling and for modeling I used both an Ensamble approach with Gradient Boosting and a Aritifical Neural Network one.
+EDA & Classification analysis of an unbalanced dataset : SMOTE technique was utilized for over-sampling and for modeling I used both an Ensamble approach with Gradient Boosting and a Aritifical Neural Network one.
