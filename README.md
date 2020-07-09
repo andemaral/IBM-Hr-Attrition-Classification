@@ -1,1 +1,1 @@
-# IBM-Hr-Attrition-Classification
+EDA & Classification analysis of an unbalanced dataset : SMOTE tenchique was utilized for over-sampling and for modeling I used both an Ensamble approach with Gradient Boosting and a Aritifical Neural Network one.
